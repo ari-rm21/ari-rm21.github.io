@@ -1,18 +1,19 @@
 ---
-layout: page
+layout: archive
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Hi I'm Ariana Rodriguez
+I have over 5 years of experience as a developer. Throughout my career, I have worked on projects involving technologies such as Adobe Experience Manager, HTML, CSS3, JavaScript, and others. Additionally, I have experience working with Adobe PSD, Sketch, XD, Studio, Veeva Vault, and more. This diverse knowledge has provided me with the opportunity to work on newsletter development, front-end development, and interactive development.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am passionate about continuous learning and enjoy taking on new challenges to advance my career. I am currently seeking opportunities that leverage my expertise and industry knowledge while allowing me to grow further as a Software Developer.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## My Skills
+### Technical Skills
 
+{%include technicalskills.md%}
 
-[jekyll-organization]: https://github.com/jekyll
+#### Soft Skills
+
+{%include softskills.md%}
