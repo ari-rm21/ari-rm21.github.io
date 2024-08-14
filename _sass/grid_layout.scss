@@ -1,8 +1,8 @@
-.archive__item {
-    /* position: relative; */
-    padding: 0.5em;
-    border: thin solid #ccc;
-}
+// .archive__item {
+//     /* position: relative; */
+//     padding: 0.5em;
+//     border: thin solid #ccc;
+// }
 
 @media only screen and (min-width: 900px) {
 .work .grid__item .archive__item {
@@ -25,6 +25,7 @@ article.archive__item {
 @media (min-width: 48em) {
     .grid__item .archive__item .archive__item-excerpt {
         font-size: 0.6em;
+
     }
 }
 
