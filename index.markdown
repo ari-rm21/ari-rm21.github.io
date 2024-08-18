@@ -6,7 +6,7 @@ author: Ariana Rodriguez
 
 
 
-# Software Developer
+
 I work as a email developer, front-end developer, and interactive developer , utilizing various technologies and languages that I constantly put into practice.
 <!-- [**My Work**](/mywork) or [**My Writing**](/mywriting)  -->
 
