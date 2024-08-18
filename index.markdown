@@ -1,6 +1,6 @@
 ---
 layout: home
-title:
+title: Hi, there
 author_profile: true
 author: Ariana Rodriguez
 ---
