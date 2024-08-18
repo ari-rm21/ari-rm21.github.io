@@ -1,0 +1,31 @@
+
+table{
+  display:grid;
+  width: 75%;
+  margin:0 auto;
+  border: 1px solid #303030;
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: 395px;
+}
+
+th{
+    padding: 20px 156px;
+}
+
+th:first-child{
+    padding: 20px 35px;
+}
+
+td{
+    padding: 20px 55px;
+    width: 1%;
+}
+
+thead{
+    background-color: #303030;
+    border-bottom: none;
+    color: #fff;
+    padding-left: 21px;
+    position: sticky;
+}

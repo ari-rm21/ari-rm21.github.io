@@ -1,17 +1,61 @@
 technical:
- - title: CSS and SCSS
-   level: Advanced
- - title: HTML5
-   level: Advanced
- - title: JavaScrpt
-   level: Intermediate
- - title: ReactJS
-   level: Intermediate
- - title: AngularJS
-   level: Intermediate
+  - title: CSS and SCSS
+    level: Advanced
+  - title: HTML5
+    level: Advanced
+  - title: JavaScript
+    level: Intermediate
+  - title: ReactJS
+    level: Intermediate
+  - title: AngularJS
+    level: Intermediate
+  - title: AEM
+    level: Intermediate
+  - title: Jekyll
+    level: Intermediate
+  - title: Github
+    level: Intermediate
+  - title: Electron
+    level: Basic
+  - title: Java
+    level: Intermediate
+  - title: SalesForce
+    level: Basic
+  - title: Veeva Vault
+    level: Intermediate
+  - title: Java
+    level: Intermediate
+  - title: Adobe XD
+    level: Intermediate
+  - title: Adobe PSD
+    level: Intermediate
+  - title: Figma
+    level: Intermediate
+  - title: Adobe InDesign
+    level: Basic
 
 soft:
- - title: Writing
-   level: Intermediate
- - title: Leadership
-   level: Intermediate
+  - title: Attention To Detail
+    level: Advanced
+  - title: Effective Communication
+    level: Advanced
+  - title: Teamwork
+    level: Advanced
+  - title: Adaptability
+    level: Advanced
+  - title: Problem-Solving
+    level: Advanced
+  - title: Leadership
+    level: Intermediate
+  - title: Time Management
+    level: Advanced
+  - title: Empathy
+    level: Advanced
+  - title: Creativity
+    level: Advanced
+  - title: Stress Management
+    level: Advanced
+  - title: Work Ethic
+    level: Advanced
+  - title: Active Listening
+    level: Advanced

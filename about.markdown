@@ -14,6 +14,6 @@ I am passionate about continuous learning and enjoy taking on new challenges to 
 
 {%include technicalskills.md%}
 
-#### Soft Skills
+### Soft Skills
 
 {%include softskills.md%}

@@ -2,6 +2,11 @@
 #to make sure Jekyll reads this 
 --- 
 
+@import "sidebar";
+@import "base";
+@import "tables";
+@import "custom";
+@import "page";
 @import "archive";
 @import "default";
 @import "author";
@@ -11,6 +16,3 @@
 @import "nav";
 @import "post";
 @import "taxonomy";
-
-@import "page";
-@import "custom";
