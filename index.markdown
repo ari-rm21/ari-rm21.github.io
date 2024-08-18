@@ -1,6 +1,6 @@
 ---
-layout: home,
-title: Software Developer
+layout: home
+title:
 author_profile: true
 author: Ariana Rodriguez
 ---
@@ -8,7 +8,8 @@ author: Ariana Rodriguez
 
 
 ## Hi there,
-I work as a email developer, front-end developer, and interactive developer , utilizing various technologies and languages that I constantly put into practice.
+I have around 5 years of experience working as a email developer, front-end developer, and interactive developer , utilizing various technologies and languages that I constantly put into practice.
+¡Please get to know more about me!
 <!-- [**My Work**](/mywork) or [**My Writing**](/mywriting)  -->
 
 <div class="container_btns">
