@@ -6,8 +6,10 @@ author: Ariana Rodriguez
 ---
 
 
-I have around 5 years of experience working as a email developer, front-end developer, and interactive developer , utilizing various technologies and languages that I constantly put into practice.
-¡Please get to know more about me!
+I have over 5 years of experience working as a Front end and Email developer 
+provided technology solutions.
+
+¡Please get to know more about me! 🚀
 <!-- [**My Work**](/mywork) or [**My Writing**](/mywriting)  -->
 
 
@@ -22,3 +24,22 @@ I have around 5 years of experience working as a email developer, front-end deve
    <button><a href="https://www.linkedin.com/in/ariana-rodriguez-38a362116/" target="_blank"><p>My Linkedin</p></a></button>
    <button><a id="last_a" href="https://github.com/ari-rm21" target="_blank"><p>My GitHub</p></a></button>
 </div>
+
+<div class="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="./assets/images/angular_logo.png" alt="HTML logo">
+    </div>
+    <div class="carousel-item">
+      <img src="./assets/images/js_logo.png" alt="JS logo">
+    </div>
+     <div class="carousel-item">
+      <img src="./assets/images/bootstrap_logo.png" alt="CSS logo">
+    </div>
+     <div class="carousel-item">
+      <img src="./assets/images/css_logo.png" alt="Angular logo">
+    </div>
+     <div class="carousel-item">
+      <img src="./assets/images/html_logo.png" alt="Bootstrap logo">
+    </div>
+  </div>
