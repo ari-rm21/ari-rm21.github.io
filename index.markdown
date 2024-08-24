@@ -1,14 +1,13 @@
 ---
 layout: home
-title: Hi, there
+title: I'm Ariana Rodriguez
 author_profile: true
 author: Ariana Rodriguez
 ---
 
-
-I have over 5 years of experience working as a Front end and Email developer 
-provided technology solutions.
-
+<h1 class="font-color-black">Interactive Web Developer</h1>
+<p class="bio">I have over 5 years of experience provided technology solutions, throughout my career, I have worked on various projects involving technologies such as Adobe Experience Manager, HTML, CSS3, JavaScript, Angular JS , Jekyll, SASS, Bootstrap, Electron, and others. Additionally, I have experience working with tools like Adobe Photoshop, Sketch, XD, VS Code, Veeva Vault, and more. I have also collaborated with tech companies in Costa Rica  working as Email developer, Front end developer and Interactive developer.
+</p>
 ¡Please get to know more about me! 🚀
 <!-- [**My Work**](/mywork) or [**My Writing**](/mywriting)  -->
 
@@ -20,11 +19,11 @@ provided technology solutions.
 </div>
 
 <div class="container_btns">
-   <button><a href="./assets/curriculum.pdf" download="ArianaRodriguez_resumen.pdf"><p>My Resumen</p></a></button>
-   <button><a href="https://www.linkedin.com/in/ariana-rodriguez-38a362116/" target="_blank"><p>My Linkedin</p></a></button>
-   <button><a id="last_a" href="https://github.com/ari-rm21" target="_blank"><p>My GitHub</p></a></button>
+   <button><a href="./assets/curriculum.pdf" download="ArianaRodriguez_resumen.pdf"><p><span class="hide">My</span> Resumen</p></a></button>
+   <button><a href="https://www.linkedin.com/in/ariana-rodriguez-38a362116/" target="_blank"><p><span  class="hide">My</span> Linkedin</p></a></button>
+   <button class="git_btn"><a id="last_a" href="https://github.com/ari-rm21" target="_blank"><p><span class="hide">My</span> GitHub</p></a></button>
 </div>
-
+<h2 class="font-color-black">Top Skills:</h2>
 <div class="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">

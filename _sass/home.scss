@@ -1,3 +1,12 @@
+//BIO STYLES
+.bio{
+    text-align: justify;
+}
+.font-color-black{
+    color:#000;
+}
+
+
 // BUTTONS STYLES
 .container_btns {
     display: flex;
@@ -64,6 +73,7 @@ a:visited {
 }
 
 .icons_container {
+    width: 150px;
     position: relative;
     padding: 15px
 }
@@ -88,23 +98,27 @@ a:visited {
 }
 
 // BUTTONS MOBILE STYLES
+
 @media only screen and (max-width: 767px) {
     #icon_1 {
         position: absolute;
         top: 39px;
-        left: 39px;
+        left: 11px;
+        margin: 0 5px;
     }
 
     #icon_2 {
         position: absolute;
-        top: 39px;
-        left: 161px;
+        top: 38px;
+        left: 146px;
+        margin: 0 5px;
     }
 
     #icon_3 {
         position: absolute;
-        top: 40px;
-        left: 273px;
+        top: 39px;
+        left: 282px;
+        margin: 0 5px;
     }
 
     .container_btns {
@@ -112,10 +126,40 @@ a:visited {
     }
 
     .container_btns p {
+        font-size: 9px;
+    }
+    .hide{
         display: none;
     }
 }
+@media only screen and (max-width: 390px) {
+    #icon_1 {
+        position: absolute;
+        top: 39px;
+        left: 4px;
+        margin: 0 5px;
+    }
 
+    #icon_2 {
+        position: absolute;
+        top: 38px;
+        left: 124px;
+        margin: 0 5px;
+    }
+    
+
+    #icon_3 {
+        position: absolute;
+        top: 39px;
+        left: 243px;
+        margin: 0 5px;
+
+    }
+    .git_btn{
+        width: 90px;
+    }
+
+}
 
 // TECH SKILLS CAROUSEL
 .carousel {

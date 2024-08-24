@@ -2,9 +2,7 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "My Work"
+  - title: "Portfolio"
     url: "/mywork"
   - title: "My Experience"
     url: "/myresumen"
-  - title: "About Me"
-    url: "/about"

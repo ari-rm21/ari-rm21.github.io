@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: My Work
+title: Portfolio
 permalink: /mywork/
 ---
 

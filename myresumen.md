@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: My Resumen
+title: My work experience
 permalink: /myresumen/
 ---
