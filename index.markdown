@@ -13,9 +13,9 @@ author: Ariana Rodriguez
 
 
 <div class="icons_container">
-    <a href="./assets/curriculum.pdf" download="ArianaRodriguez_resumen.pdf"><img id="icon_1" src="./assets/images/descargar.png"></a>
-    <a href="https://www.linkedin.com/in/ariana-rodriguez-38a362116/" target="_blank"><img id="icon_2" src="./assets/images/linkedin.png"></a>
-    <a id="last_a" href="https://github.com/ari-rm21" target="_blank"><img id="icon_3" src="./assets/images/github.png"></a>
+    <a href="./assets/curriculum.pdf" download="ArianaRodriguez_resumen.pdf"><img id="icon_1" src="./assets/images/descargar.webp"></a>
+    <a href="https://www.linkedin.com/in/ariana-rodriguez-38a362116/" target="_blank"><img id="icon_2" src="./assets/images/linkedin.webp"></a>
+    <a id="last_a" href="https://github.com/ari-rm21" target="_blank"><img id="icon_3" src="./assets/images/github.webp"></a>
 </div>
 
 <div class="container_btns">
@@ -27,18 +27,18 @@ author: Ariana Rodriguez
 <div class="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="./assets/images/angular_logo.png" alt="HTML logo">
+      <img src="./assets/images/angular_logo.webp" alt="HTML logo">
     </div>
     <div class="carousel-item">
-      <img src="./assets/images/js_logo.png" alt="JS logo">
+      <img src="./assets/images/js_logo.webp" alt="JS logo">
     </div>
      <div class="carousel-item">
-      <img src="./assets/images/bootstrap_logo.png" alt="CSS logo">
+      <img src="./assets/images/bootstrap_logo.webp" alt="CSS logo">
     </div>
      <div class="carousel-item">
-      <img src="./assets/images/css_logo.png" alt="Angular logo">
+      <img src="./assets/images/css_logo.webp" alt="Angular logo">
     </div>
      <div class="carousel-item">
-      <img src="./assets/images/html_logo.png" alt="Bootstrap logo">
+      <img src="./assets/images/html_logo.webp" alt="Bootstrap logo">
     </div>
   </div>
